@@ -1,0 +1,17 @@
+{
+  "name": "Nodejs_Test",
+  "version": "0.0.1",
+  "description": "This is a test",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SukeraM/Nodejs_Test.git"
+  },
+  "author": "Sukera",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "1.2.1"
+  }
+}
